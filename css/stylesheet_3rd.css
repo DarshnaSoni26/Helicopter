@@ -1,0 +1,246 @@
+@charset "utf-8";
+/* CSS Document */
+.outer_cover
+{
+	width:1000px;
+	margin:0px auto;
+	height:7580px;
+	border:solid 0px red;
+}
+.clear
+{
+	clear:both;
+}
+.tna_outer
+{
+	width:1000px;
+	margin:0px auto;
+	height:1580px;
+	border:solid 0px green;
+	background:url(../images/headerbg.jpg);
+	background-attachment:fixed;
+	background-position:top center;
+	background-size:cover;
+}
+.north
+{
+	width:530px;
+	margin-left:467px;
+	height:300px;
+	border:solid 0px black;
+}
+.north_1
+{
+	height:105px;
+	width:23%;
+	margin-top:60px;
+	margin-bottom:45px;
+}
+.north_2
+{
+	height:147px;
+	width:71%;
+	margin-top:80px;
+	margin-left:10px;
+}
+.menubar
+{
+	width:1000px;
+	height:500px;
+	border-top:solid 14px #003366;
+	border-bottom:solid 45px #003366;
+	margin-top:500px;
+	background-color:rgba(0,0,0,0.5);
+}
+.menubar_inner
+{
+	width:1000px;
+	height:100px;
+	border:solid 0px orange;
+}
+.menu_1
+{
+	height:45px;
+	width:19%;
+	border-right:solid 1px #fff;
+	text-align:center;
+	font-size:16px;
+	font-weight:bold;
+	padding-top:20px;
+	margin-top:35px;
+	float:left;
+}
+.menu_1 a
+{
+	color:#FFF;
+}
+.img_menu
+{
+	width:1000px;
+	border-bottom:solid 45px #003366;
+	height:180px;
+	background:url(../images/helicopters.jpg);
+} 
+.aerial
+{
+	width:1000px;
+	height:450px;
+	margin-top:5px;
+	background:url(../images/frameimg1.jpg);
+	background-attachment:fixed;
+	background-position:top center;
+	background-size:cover;
+}
+.aerial_1
+{
+	width:1000px;
+	height:450px;
+	background:rgba(0,0,0,0.5);
+}	
+.aa_1
+{
+	width:21%;
+	border:solid 3px white;
+	margin-top:230px;
+	margin-left:150px;
+	float:left;
+}
+.aa_2
+{
+	width:25%;
+	height:35px;
+	border:solid 9px white;
+	background:transparent;
+	margin-top:200px;
+	text-align:center;
+	font-size:25px;
+	font-weight:bold;
+	color:#fff;
+	padding-top:10px;
+	float:left;
+}
+.aa_3
+{
+	width:21%;
+	border:solid 3px white;
+	float:left;
+	margin-top:230px;
+}
+.aerial_text
+{
+	width:1000px;
+	height:800px;
+	border:solid 0px blue;
+	font-size:24px;
+	line-height:33px;
+	color:#333;
+	margin-top:80px;
+}
+.aerial_text p a
+{
+	text-decoration:none;
+	color:#03F;
+	font-size:26px;
+	cursor:pointer;
+}
+.aerial_in
+{
+	width:1000px;
+	height:450px;
+	margin-top:5px;
+	background:url(../images/frameimg2.jpg);
+	background-attachment:fixed;
+	background-position:top center;
+	background-size:cover;
+}
+.aerial_in1
+{
+	width:1000px;
+	height:450px;
+	background:rgba(0,0,0,0.5);
+}	
+.aerial_ftc
+{
+	width:1000px;
+	height:450px;
+	margin-top:5px;
+	background:url(../images/frameimg3.jpg);
+	background-attachment:fixed;
+	background-position:top center;
+	background-size:cover;
+}
+.aerial_ftc1
+{
+	width:1000px;
+	height:450px;
+	background:rgba(0,0,0,0.5);
+}	
+.aerial_ftctext
+{
+	width:1000px;
+	height:640px;
+	border:solid 0px blue;
+	font-size:23px;
+	line-height:33px;
+	color:#333;
+	margin-top:80px;
+}
+.aerial_ftctext p a
+{
+	text-decoration:none;
+	color:#00C;
+	font-size:24px;
+}
+.aerial_ch
+{
+	width:1000px;
+	height:450px;
+	margin-top:5px;
+	background:url(../images/frameimg4.jpg);
+	background-attachment:fixed;
+	background-position:top center;
+	background-size:cover;
+}
+.aerial_ch1
+{
+	width:1000px;
+	height:450px;
+	background:rgba(0,0,0,0.5);
+}
+.aerial_cu
+{
+	width:1000px;
+	height:450px;
+	margin-top:5px;
+	background:url(../images/frameimg5.jpg);
+	background-attachment:fixed;
+	background-position:top center;
+	background-size:cover;
+}
+.aerial_cu1
+{
+	width:1000px;
+	height:450px;
+	background:rgba(0,0,0,0.5);
+}
+.aerial_ftctext1
+{
+	width:1000px;
+	height:435px;
+	border:solid 0px blue;
+	font-size:24px;
+	line-height:33px;
+	color:#333;
+	margin-top:80px;
+}
+.aerial_ftctext1  a
+{
+	text-decoration:none;
+	color:#00C;
+	font-size:24px;
+	margin-left:430px;
+}
+.cu_hr
+{
+	margin-top:32px;
+}
